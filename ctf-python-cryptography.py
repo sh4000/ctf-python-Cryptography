@@ -1,7 +1,7 @@
-import random
-
 # Trouve la clé qui a ete use pour chiffrer le message, en utilisant un chiffrement vigenère / Find the key that was used to encrypt the message, using a strong encryption
 # *as4h
+
+import random
 
 ciphertext = "xliw wldqw xli qlrq"
 
